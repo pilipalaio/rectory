@@ -1,0 +1,2 @@
+# rectory
+Create rez package
